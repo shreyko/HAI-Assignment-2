@@ -1,0 +1,2708 @@
+dish_id,tier,ground_truth_calories,total_mass_grams,total_fat_grams,total_carb_grams,total_protein_grams,num_ingredients,ingredient_summary,image_url,image_path,model_predicted_calories,model_reasoning,error_kcal,percentage_error
+dish_1559844951,Low,274.3,122.0,17.9,22.8,9.8,2,"almonds (36.0g), potatoes (86.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559844951/rgb.png,data/raw_images/dish_1559844951.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",275.7,100.5
+dish_1561575474,Low,120.1,183.0,5.0,17.4,3.0,5,"salt (0.6g), eggplant (57.8g), roasted potatoes (60.0g), cauliflower (64.0g), olive oil (0.6g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561575474/rgb.png,data/raw_images/dish_1561575474.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a high-ca",429.9,358.0
+dish_1563216717,Low,246.0,332.0,5.6,16.3,33.1,12,"garlic (0.9g), squash (63.1g), cherry tomatoes (4.5g), chicken breast (89.5g), spinach (raw) (2.2g), parmesan cheese (2.2g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563216717/rgb.png,data/raw_images/dish_1563216717.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ",304.0,123.6
+dish_1561662216,Low,300.8,193.0,12.4,28.2,18.6,17,"soy sauce (3.4g), garlic (2.1g), white rice (8.5g), parsley (0.2g), onions (1.7g), brown rice (68.0g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561662216/rgb.png,data/raw_images/dish_1561662216.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as 150 grams, whi",249.2,82.8
+dish_1563207364,Low,309.3,271.0,13.8,30.7,15.0,6,"scrambled eggs (68.0g), yam (50.0g), grapes (30.0g), egg whites (67.0g), olive oil (6.0g), sweet potato (50.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563207364/rgb.png,data/raw_images/dish_1563207364.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",240.7,77.8
+dish_1561739238,Low,274.2,257.0,9.8,37.6,9.5,4,"egg whites (71.0g), hash browns (43.0g), berries (61.0g), sweet potato (82.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561739238/rgb.png,data/raw_images/dish_1561739238.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",275.8,100.6
+dish_1562611680,Low,326.9,256.0,19.4,24.8,16.0,18,"cilantro (0.1g), garlic (0.4g), olive oil (7.1g), pepperoni pizza (50.0g), lemon juice (0.1g), onions (1.6g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562611680/rgb.png,data/raw_images/dish_1562611680.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",223.1,68.2
+dish_1560453174,Low,329.7,256.0,18.1,10.5,32.1,20,"basil (0.2g), rosemary (0.2g), carrot (5.6g), olive oil (13.0g), almonds (2.8g), lemon juice (0.5g), +14 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560453174/rgb.png,data/raw_images/dish_1560453174.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source, and the sa",220.3,66.8
+dish_1560543755,Low,257.9,264.0,8.9,27.4,17.4,19,"green onions (1.2g), chicken (43.0g), cauliflower (75.0g), green beans (1.1g), spinach (raw) (1.1g), ginger (0.2g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560543755/rgb.png,data/raw_images/dish_1560543755.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a part of the ",292.1,113.3
+dish_1563996485,Low,178.0,201.0,11.6,16.6,4.2,11,"salt (0.3g), pepper (0.0g), blueberries (3.1g), chard (7.8g), arugula (43.9g), vinegar (1.5g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563996485/rgb.png,data/raw_images/dish_1563996485.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",372.0,209.0
+dish_1564761488,Low,328.0,336.0,8.4,40.6,21.7,4,"turkey bacon (21.0g), egg whites (105.0g), fried rice (97.0g), honeydew melons (113.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564761488/rgb.png,data/raw_images/dish_1564761488.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""egg"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {
+      ""item"": ""brown rice"",
+      ""grams"": 200,
+      ""calories"": 300
+    },
+    {
+      ""i",222.0,67.7
+dish_1559678330,Low,169.7,150.0,16.2,5.3,3.2,9,"olive oil (15.7g), spinach (raw) (78.4g), vinegar (7.8g), tomatoes (9.8g), garlic (1.5g), cucumbers (15.7g), +3 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559678330/rgb.png,data/raw_images/dish_1559678330.png,350.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""red bell pepper"",
+      ""grams"": 50,
+      ""calories"": 100
+    }
+  ],
+  ",180.3,106.2
+dish_1564428444,Low,157.0,277.0,10.3,14.9,4.7,10,"olive oil (9.5g), onions (7.1g), salt (0.3g), garlic (0.9g), pears (11.9g), mixed greens (59.4g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564428444/rgb.png,data/raw_images/dish_1564428444.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""cauliflower"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 200,
+      ""calories"": 50
+    },
+    {
+     ",393.0,250.3
+dish_1558459115,Low,271.5,298.0,10.5,43.5,6.6,5,"almonds (20.0g), apple (143.0g), white rice (32.0g), cherry tomatoes (61.0g), grapes (42.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558459115/rgb.png,data/raw_images/dish_1558459115.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""apple"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""tomato"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+      ""item""",278.5,102.6
+dish_1563998210,Low,148.1,91.0,5.0,2.2,22.6,17,"garlic (0.7g), olive oil (0.7g), thyme (0.2g), lemon juice (0.2g), butter (0.7g), cream (2.8g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563998210/rgb.png,data/raw_images/dish_1563998210.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken appears to be a whole piece, which i",401.9,271.4
+dish_1564777960,Low,331.0,147.0,16.7,16.3,26.4,10,"spinach (cooked) (2.7g), cheese pizza (39.0g), shallots (5.5g), onions (2.7g), salt (0.1g), olive oil (0.5g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564777960/rgb.png,data/raw_images/dish_1564777960.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The plate contains a piece of chicken, which is ",219.0,66.2
+dish_1563468269,Low,129.0,302.0,0.6,32.8,1.8,3,"berries (63.0g), watermelon (132.0g), pineapple (107.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563468269/rgb.png,data/raw_images/dish_1563468269.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""watermelon"",
+      ""grams"": 200,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""pineapple"",
+      ""grams"": 150,
+      ""calories"": 100
+    },
+    {
+  ",421.0,326.4
+dish_1562873028,Low,280.3,320.0,16.1,34.2,21.0,18,"jicama (3.2g), parsley (0.2g), nopales (2.4g), olive oil (4.1g), cherry tomatoes (54.0g), chive (0.2g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562873028/rgb.png,data/raw_images/dish_1562873028.png,200.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""tomatoes"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      """,80.3,28.6
+dish_1561580370,Low,126.8,124.0,5.0,16.2,5.4,8,"spinach (raw) (1.4g), wheat berry (23.0g), cheese (0.7g), cherry tomatoes (3.5g), pasta (35.3g), pesto (5.6g), +2 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561580370/rgb.png,data/raw_images/dish_1561580370.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",423.2,333.8
+dish_1561061658,Low,226.0,227.0,12.3,24.7,8.9,17,"croutons (0.3g), pepper (0.1g), parmesan cheese (4.2g), brussels sprouts (75.8g), mustard greens (34.3g), garlic (0.6g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561061658/rgb.png,data/raw_images/dish_1561061658.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",324.0,143.4
+dish_1559838402,Low,222.8,233.0,3.8,43.2,5.2,4,"bacon (8.0g), sweet potato (59.5g), yam (59.5g), berries (106.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559838402/rgb.png,data/raw_images/dish_1559838402.png,300.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""strawberries"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""raspberries"",
+      ""grams"": 150,
+      ""calories"": 150
+    },
+    {",77.2,34.6
+dish_1561753238,Low,298.0,333.0,13.7,14.0,28.9,14,"olive oil (4.6g), arugula (4.1g), brown rice (20.7g), pepper (12.5g), squash (68.1g), kale (18.2g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561753238/rgb.png,data/raw_images/dish_1561753238.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source, and the ve",252.0,84.6
+dish_1565728415,Low,194.4,80.0,8.4,16.7,12.0,10,"cheese pizza (47.0g), shallots (1.7g), spinach (cooked) (0.8g), onions (0.8g), olive oil (0.2g), vinegar (0.0g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565728415/rgb.png,data/raw_images/dish_1565728415.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram pie",355.6,182.9
+dish_1565383026,Low,171.6,287.0,14.0,12.2,3.7,3,"spinach (raw) (57.0g), cucumbers (101.0g), olives (129.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565383026/rgb.png,data/raw_images/dish_1565383026.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""olives"",
+      ""grams"": 150,
+      ""calories"": 200
+    },
+    {
+      ""it",378.4,220.5
+dish_1566849923,Low,128.0,240.0,7.5,16.2,2.1,3,"olives (67.0g), cherry tomatoes (87.0g), carrot (86.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566849923/rgb.png,data/raw_images/dish_1566849923.png,350.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""tomatoes"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""carrots"",
+      ""grams"": 200,
+      ""calories"": 100
+    }
+  ],
+  ""total_",222.0,173.4
+dish_1560368972,Low,196.8,107.0,8.7,13.6,14.7,15,"pork (51.0g), cherry tomatoes (1.7g), garlic (0.7g), shallots (0.3g), white rice (41.0g), salt (0.1g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560368972/rgb.png,data/raw_images/dish_1560368972.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as 150 grams, whi",353.2,179.5
+dish_1564675118,Low,177.2,238.0,4.1,34.1,2.0,3,"olive oil (3.9g), watermelon (77.0g), sweet potato (157.1g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564675118/rgb.png,data/raw_images/dish_1564675118.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",372.8,210.4
+dish_1567021831,Low,252.4,228.0,27.2,8.2,22.7,18,"cherry tomatoes (4.3g), pepper (0.1g), chive (0.3g), wheat berry (21.3g), kale (5.3g), mustard (0.6g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567021831/rgb.png,data/raw_images/dish_1567021831.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",297.6,117.9
+dish_1559846099,Low,206.9,114.0,14.6,15.7,7.7,3,"mandarin oranges (53.0g), almonds (29.0g), broccoli (32.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559846099/rgb.png,data/raw_images/dish_1559846099.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a high-ca",343.1,165.8
+dish_1563900150,Low,202.3,154.0,12.7,10.3,11.0,3,"sweet potato (47.8g), olive oil (1.2g), scrambled eggs (105.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563900150/rgb.png,data/raw_images/dish_1563900150.png,850.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""scrambled eggs"",
+      ""grams"": 200,
+      ""calories"": 500
+    },
+    {
+      ""item"": ""potatoes"",
+      ""grams"": 150,
+      ""calories"": 300
+    }
+  ],
+ ",647.7,320.2
+dish_1561662458,Low,124.8,119.0,4.9,21.1,3.2,11,"lettuce (6.5g), lime (0.3g), salt (0.2g), mixed greens (9.8g), onions (1.3g), cucumbers (3.3g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561662458/rgb.png,data/raw_images/dish_1561662458.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""tomato"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+      ""ite",425.2,340.7
+dish_1567106825,Low,220.2,104.0,16.9,3.4,13.5,15,"bok choy (1.4g), millet (5.7g), blue cheese (4.9g), onions (1.4g), mustard (0.2g), olive oil (6.8g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567106825/rgb.png,data/raw_images/dish_1567106825.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",329.8,149.8
+dish_1560973958,Low,145.3,121.0,6.2,20.7,4.3,10,"wheat berry (77.0g), olive oil (3.7g), mustard (0.2g), pecans (2.7g), lime (0.7g), salt (0.1g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560973958/rgb.png,data/raw_images/dish_1560973958.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",404.7,278.5
+dish_1558546663,Low,330.7,197.0,22.1,30.3,10.6,3,"spinach (raw) (11.0g), almonds (44.0g), apple (142.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558546663/rgb.png,data/raw_images/dish_1558546663.png,300.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""apple"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""it",30.7,9.3
+dish_1563468299,Low,210.4,385.0,4.1,35.6,10.9,4,"cottage cheese (83.0g), pineapple (107.0g), watermelon (132.0g), berries (63.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563468299/rgb.png,data/raw_images/dish_1563468299.png,100.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""watermelon"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""blackberries"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+ ",110.4,52.5
+dish_1563206582,Low,229.2,320.0,4.4,17.0,26.0,4,"yam (32.1g), egg whites (252.0g), olive oil (3.8g), sweet potato (32.1g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563206582/rgb.png,data/raw_images/dish_1563206582.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",320.8,140.0
+dish_1561665024,Low,100.6,121.0,7.0,8.9,2.1,10,"lemon juice (1.8g), onions (3.5g), olive oil (6.7g), mixed greens (43.9g), parsley (0.4g), salt (0.2g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561665024/rgb.png,data/raw_images/dish_1561665024.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common protein source, and its ",449.4,446.7
+dish_1563475921,Low,244.3,348.0,6.7,27.2,19.8,17,"shallots (2.1g), garlic (2.1g), lemon juice (0.7g), onions (1.4g), spinach (raw) (3.5g), jalapenos (0.7g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563475921/rgb.png,data/raw_images/dish_1563475921.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",305.7,125.1
+dish_1561739954,Low,276.1,225.0,16.1,16.6,15.4,2,"sweet potato (79.0g), scrambled eggs (146.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561739954/rgb.png,data/raw_images/dish_1561739954.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",273.9,99.2
+dish_1563813308,Low,225.0,76.0,16.4,3.9,15.3,5,"salt (0.2g), pepper (0.0g), brussels sprouts (37.4g), olive oil (0.4g), bacon (38.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563813308/rgb.png,data/raw_images/dish_1563813308.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""bacon"",
+      ""grams"": 200,
+      ""calories"": 500
+    },
+    {
+      ""item"": ""brussels sprouts"",
+      ""grams"": 100,
+      ""calories"": 50
+    }
+  ],
+  """,325.0,144.4
+dish_1564689108,Low,203.7,159.0,15.9,13.2,4.9,15,"chickpeas (20.9g), salt (0.4g), garlic (0.5g), blueberries (7.1g), pepper (6.3g), pears (10.4g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564689108/rgb.png,data/raw_images/dish_1564689108.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chickpeas"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 200,
+      ""calories"": 50
+    },
+    {
+      ",346.3,170.0
+dish_1562602860,Low,165.2,258.0,5.6,20.8,10.2,5,"strawberries (68.0g), milk (55.3g), chia seeds (13.0g), greek yogurt (51.7g), watermelon (70.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562602860/rgb.png,data/raw_images/dish_1562602860.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""watermelon"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""strawberries"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {",384.8,232.9
+dish_1565898158,Low,240.4,194.0,10.3,10.2,25.3,15,"cilantro (1.0g), ginger (0.5g), spinach (raw) (4.9g), jalapenos (1.0g), lemon juice (1.0g), lime (0.1g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565898158/rgb.png,data/raw_images/dish_1565898158.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""green beans"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+   ",309.6,128.8
+dish_1565022062,Low,234.6,366.0,2.8,30.9,19.3,4,"olive oil (2.2g), egg whites (177.0g), berries (99.0g), sweet potato (87.8g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565022062/rgb.png,data/raw_images/dish_1565022062.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a high-ca",315.4,134.4
+dish_1561663855,Low,179.1,139.0,7.4,14.4,15.3,18,"parsley (0.3g), lemon juice (1.2g), chive (0.1g), garlic (0.2g), millet (4.0g), apple (5.0g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561663855/rgb.png,data/raw_images/dish_1561663855.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken leg is a significant portion of the ",370.9,207.1
+dish_1566488928,Low,103.0,147.0,2.2,20.0,1.3,3,"cantaloupe (61.0g), sweet potato (83.9g), olive oil (2.1g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566488928/rgb.png,data/raw_images/dish_1566488928.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",447.0,434.0
+dish_1563392128,Low,169.9,162.0,18.8,6.5,21.1,12,"garlic (0.5g), cilantro (1.1g), lemon juice (2.1g), onions (4.3g), olive oil (4.3g), salt (0.3g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563392128/rgb.png,data/raw_images/dish_1563392128.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",380.1,223.7
+dish_1560368464,Low,349.4,275.0,18.1,16.8,29.1,15,"olive oil (2.8g), brown rice (14.2g), vinegar (0.7g), cherry tomatoes (3.6g), honeydew melons (137.0g), shallots (0.7g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560368464/rgb.png,data/raw_images/dish_1560368464.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",200.6,57.4
+dish_1560368990,Low,211.9,119.0,10.0,14.4,15.0,21,"shallots (0.3g), salt (0.1g), pumpkin seeds (0.6g), parsley (0.2g), olive oil (2.5g), brown rice (6.8g), +15 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560368990/rgb.png,data/raw_images/dish_1560368990.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",338.1,159.6
+dish_1562958563,Low,130.8,68.0,9.8,2.7,8.2,2,"olives (21.0g), chicken salad (47.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562958563/rgb.png,data/raw_images/dish_1562958563.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The plate contains chicken, which is a protein s",419.2,320.5
+dish_1561579617,Low,130.2,304.0,4.6,21.1,4.4,5,"salt (1.4g), eggplant (138.2g), olive oil (1.4g), cauliflower (126.0g), roasted potatoes (37.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561579617/rgb.png,data/raw_images/dish_1561579617.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",419.8,322.4
+dish_1566333167,Low,344.5,140.0,14.5,31.6,20.3,10,"vinegar (0.1g), beef (38.2g), bok choy (1.3g), spinach (cooked) (1.3g), shallots (2.5g), millet (5.1g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566333167/rgb.png,data/raw_images/dish_1566333167.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",205.5,59.7
+dish_1565033139,Low,193.6,274.0,14.2,17.4,4.4,3,"mixed greens (55.0g), broccoli (92.0g), olives (127.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565033139/rgb.png,data/raw_images/dish_1565033139.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""olives"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_c",356.4,184.1
+dish_1563464480,Low,229.5,213.0,10.9,25.8,8.3,4,"bacon (17.0g), watermelon (60.0g), roasted potatoes (50.0g), berries (86.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563464480/rgb.png,data/raw_images/dish_1563464480.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""bacon"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {
+      ""item"": ""watermelon"",
+      ""grams"": 200,
+      ""calories"": 100
+    },
+    {
+      ",320.5,139.7
+dish_1567020054,Low,122.0,145.0,11.5,7.9,14.2,14,"shallots (1.3g), garlic (0.0g), parsley (0.6g), salt (0.4g), kale (3.2g), brussels sprouts (54.1g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567020054/rgb.png,data/raw_images/dish_1567020054.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken appears to be a significant portion ",428.0,350.8
+dish_1568649387,Low,163.9,192.0,5.3,28.5,2.5,5,"olive oil (4.8g), sweet potato (29.7g), broccoli (49.8g), berries (78.0g), yam (29.7g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568649387/rgb.png,data/raw_images/dish_1568649387.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",386.1,235.6
+dish_1566499633,Low,161.4,139.0,14.2,8.4,3.0,10,"onions (7.4g), olive oil (9.8g), vinegar (4.9g), garlic (0.6g), salt (0.3g), sun dried tomatoes (4.9g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566499633/rgb.png,data/raw_images/dish_1566499633.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 50,
+      ""calories"": 150
+    },
+    {
+      """,388.6,240.8
+dish_1558549214,Low,239.2,361.0,0.7,53.9,5.7,5,"white rice (75.0g), potatoes (95.0g), spinach (raw) (10.0g), cherry tomatoes (115.0g), grapes (66.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558549214/rgb.png,data/raw_images/dish_1558549214.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""rice"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {
+      ""item"": ""tomatoes"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+      ""item",310.8,129.9
+dish_1562008813,Low,214.6,225.0,15.6,15.6,6.0,19,"pears (9.4g), quinoa (25.6g), shallots (0.1g), olive oil (11.2g), lemon juice (0.1g), mustard (1.2g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562008813/rgb.png,data/raw_images/dish_1562008813.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source, and the ca",335.4,156.3
+dish_1568061202,Low,256.6,334.0,7.7,39.2,9.4,7,"salt (0.8g), pepper (0.1g), brussels sprouts (46.2g), olive oil (1.9g), squash (139.1g), pineapple (91.0g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568061202/rgb.png,data/raw_images/dish_1568061202.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza, which is ",293.4,114.3
+dish_1563900172,Low,236.6,255.0,12.9,18.4,11.8,4,"scrambled eggs (105.0g), cantaloupe (101.0g), olive oil (1.2g), sweet potato (47.8g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563900172/rgb.png,data/raw_images/dish_1563900172.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""egg"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""mango"",
+      ""grams"": 150,
+      ""calories"": 100
+    },
+    {
+      ""item"":",313.4,132.5
+dish_1562785132,Low,211.5,192.0,24.6,10.4,29.0,7,"fish (150.3g), country rice (30.1g), onions (6.0g), olive oil (3.0g), garlic (0.8g), salt (0.4g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562785132/rgb.png,data/raw_images/dish_1562785132.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",338.5,160.0
+dish_1563913675,Low,282.7,228.0,12.5,31.8,12.2,11,"spinach (raw) (13.3g), vinegar (1.8g), chard (8.8g), cherry tomatoes (4.4g), cheese pizza (68.0g), figs (4.4g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563913675/rgb.png,data/raw_images/dish_1563913675.png,750.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""salad"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""item"": ""pizza"",
+      ""grams"": 150,
+      ""calories"": 350
+    }
+  ],
+  ""total_calo",467.3,165.3
+dish_1559244305,Low,113.1,64.0,7.0,9.8,3.5,8,"arugula (8.0g), pepper (3.2g), vinegar (3.2g), chickpeas (32.1g), salt (0.2g), parsley (3.2g), +2 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559244305/rgb.png,data/raw_images/dish_1559244305.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chickpeas"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""tomatoes"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+      ",436.9,386.3
+dish_1563550614,Low,132.8,205.0,1.8,11.6,15.1,3,"sweet potato (58.5g), olive oil (1.5g), egg whites (145.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563550614/rgb.png,data/raw_images/dish_1563550614.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common protein source, and its ",417.2,314.2
+dish_1558724031,Medium-Low,358.7,303.0,25.8,25.8,14.1,4,"cherry tomatoes (107.0g), cantaloupe (93.0g), almonds (51.0g), cauliflower (52.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558724031/rgb.png,data/raw_images/dish_1558724031.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""tomatoes"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""cauliflower"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+    ",191.3,53.3
+dish_1562789268,Medium-Low,569.5,350.0,22.7,64.8,32.6,16,"pork (76.4g), corn on the cob (196.0g), brown rice (10.2g), lemon juice (0.5g), parsley (0.3g), basil (0.3g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562789268/rgb.png,data/raw_images/dish_1562789268.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",19.5,3.4
+dish_1561662054,Medium-Low,419.4,292.0,23.8,26.4,25.9,17,"pepper (0.3g), white rice (12.0g), mixed greens (75.3g), garlic (3.0g), soy sauce (4.8g), millet (12.0g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561662054/rgb.png,data/raw_images/dish_1561662054.png,200.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""carrots"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+      ""it",219.4,52.3
+dish_1564432238,Medium-Low,455.4,315.0,23.2,34.9,28.1,22,"cherry tomatoes (3.6g), cauliflower (60.0g), lime (0.5g), mayonnaise (1.8g), jalapenos (0.1g), pepperoni pizza (63.0g), +16 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564432238/rgb.png,data/raw_images/dish_1564432238.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",94.6,20.8
+dish_1563468327,Medium-Low,351.9,483.0,9.8,57.5,12.1,7,"yam (46.2g), sweet potato (46.2g), cottage cheese (83.0g), pineapple (107.0g), watermelon (132.0g), olive oil (5.5g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563468327/rgb.png,data/raw_images/dish_1563468327.png,50.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""watermelon"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""blackberries"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+ ",301.9,85.8
+dish_1566417516,Medium-Low,385.4,425.0,36.5,23.5,33.7,17,"wheat berry (31.6g), eggplant (109.8g), cherry tomatoes (8.9g), mixed greens (32.5g), celery root (2.6g), salt (1.6g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566417516/rgb.png,data/raw_images/dish_1566417516.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",164.6,42.7
+dish_1562008979,Medium-Low,382.9,290.0,22.2,10.2,35.3,13,"jalapenos (0.2g), lemon juice (1.5g), pork (115.8g), wheat berry (15.4g), cabbage (15.4g), pepper (0.4g), +7 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562008979/rgb.png,data/raw_images/dish_1562008979.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",167.1,43.6
+dish_1566920365,Medium-Low,490.4,871.0,5.3,41.4,60.7,4,"salsa (141.0g), sweet potato (156.1g), olive oil (3.9g), egg whites (570.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566920365/rgb.png,data/raw_images/dish_1566920365.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",59.6,12.2
+dish_1563984242,Medium-Low,402.1,753.0,3.3,36.8,49.4,5,"sweet potato (81.0g), egg whites (472.0g), pineapple (62.0g), olive oil (2.0g), cantaloupe (136.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563984242/rgb.png,data/raw_images/dish_1563984242.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",147.9,36.8
+dish_1562691032,Medium-Low,419.7,415.0,22.0,39.1,17.9,6,"berries (85.0g), olive oil (0.9g), pineapple (80.0g), scrambled eggs (147.0g), roasted potatoes (66.0g), broccoli (36.1g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562691032/rgb.png,data/raw_images/dish_1562691032.png,200.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""strawberries"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+   ",219.7,52.3
+dish_1563998323,Medium-Low,634.5,574.0,32.5,35.3,53.0,26,"roasted potatoes (79.0g), shallots (1.3g), olive oil (4.4g), tatsoi (4.6g), butter (0.7g), jalapenos (0.5g), +20 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563998323/rgb.png,data/raw_images/dish_1563998323.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",84.5,13.3
+dish_1561492204,Medium-Low,488.6,334.0,15.7,49.1,37.2,16,"olive oil (9.0g), blueberries (4.4g), onions (4.6g), tomatoes (11.6g), salt (2.5g), fried rice (128.0g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561492204/rgb.png,data/raw_images/dish_1561492204.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",61.4,12.6
+dish_1567613057,Medium-Low,406.7,749.0,5.0,45.9,40.7,5,"olive oil (3.8g), egg whites (369.0g), watermelon (121.0g), sweet potato (151.2g), salsa (104.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567613057/rgb.png,data/raw_images/dish_1567613057.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",143.3,35.2
+dish_1558724959,Medium-Low,581.4,426.0,36.5,57.0,21.3,4,"brussels sprouts (118.0g), carrot (75.0g), almonds (72.0g), apple (161.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558724959/rgb.png,data/raw_images/dish_1558724959.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a chicken breast, which is ",31.4,5.4
+dish_1566938026,Medium-Low,450.6,219.0,17.5,37.5,33.5,13,"spinach (cooked) (2.2g), wine (0.4g), cheese pizza (104.0g), salt (0.1g), lemon juice (0.1g), squash (4.4g), +7 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566938026/rgb.png,data/raw_images/dish_1566938026.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",99.4,22.1
+dish_1564000490,Medium-Low,532.7,325.0,19.2,49.6,39.9,19,"pepper (0.3g), arugula (1.7g), cream (2.8g), caesar salad (108.0g), butter (0.7g), shallots (0.3g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564000490/rgb.png,data/raw_images/dish_1564000490.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza with 400 c",17.3,3.2
+dish_1559751801,Medium-Low,451.6,343.0,22.0,32.8,29.2,4,"berries (66.0g), yam (66.0g), eggs (122.0g), chicken apple sausage (89.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559751801/rgb.png,data/raw_images/dish_1559751801.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal includes chicken, which is a good sourc",98.4,21.8
+dish_1564000459,Medium-Low,485.2,217.0,16.9,45.0,36.5,18,"butter (0.7g), wheat berry (6.9g), thyme (0.2g), olive oil (0.7g), rosemary (0.2g), lemon juice (0.2g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564000459/rgb.png,data/raw_images/dish_1564000459.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",64.8,13.4
+dish_1567628157,Medium-Low,373.2,355.0,36.0,25.9,37.5,17,"green onions (1.7g), fish (174.6g), apple (8.5g), arugula (17.0g), onions (7.0g), chard (29.5g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567628157/rgb.png,data/raw_images/dish_1567628157.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",176.8,47.4
+dish_1566502505,Medium-Low,454.5,275.0,22.5,33.1,31.9,16,"sun dried tomatoes (3.1g), bok choy (14.9g), pork (104.2g), corn on the cob (55.0g), cucumbers (7.7g), onions (4.6g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566502505/rgb.png,data/raw_images/dish_1566502505.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",95.5,21.0
+dish_1562959732,Medium-Low,374.7,232.0,14.7,31.1,28.9,9,"salt (0.7g), soy sauce (5.8g), bok choy (14.6g), pork (102.2g), parsnips (79.0g), pepper (0.4g), +3 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562959732/rgb.png,data/raw_images/dish_1562959732.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",175.3,46.8
+dish_1566502537,Medium-Low,517.6,315.0,24.3,34.3,41.8,25,"corn on the cob (55.0g), vinegar (3.1g), parsley (0.0g), sun dried tomatoes (3.1g), rosemary (0.0g), carrot (3.2g), +19 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566502537/rgb.png,data/raw_images/dish_1566502537.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",32.4,6.3
+dish_1564778030,Medium-Low,504.4,283.0,31.9,23.5,30.8,17,"millet (11.0g), spinach (cooked) (2.7g), vinegar (4.4g), onions (2.7g), cheese pizza (39.0g), broccoli (72.2g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564778030/rgb.png,data/raw_images/dish_1564778030.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, broccoli, and a sl",45.6,9.0
+dish_1566838407,Medium-Low,358.9,558.0,9.8,62.4,9.7,6,"pineapple (145.0g), scrambled eggs (65.0g), sweet potato (74.1g), berries (133.0g), olive oil (1.9g), watermelon (139.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566838407/rgb.png,data/raw_images/dish_1566838407.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of scrambled eggs, which are a",191.1,53.2
+dish_1564429894,Medium-Low,498.8,566.0,11.8,73.5,25.3,19,"quinoa (184.0g), salt (2.3g), squash (51.3g), mayonnaise (0.9g), arugula (18.4g), parsley (3.9g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564429894/rgb.png,data/raw_images/dish_1564429894.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""cauliflower"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+   ",51.2,10.3
+dish_1560360055,Medium-Low,362.7,180.0,27.8,4.2,22.6,2,"sausage (49.0g), scrambled eggs (131.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560360055/rgb.png,data/raw_images/dish_1560360055.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",187.3,51.6
+dish_1560453380,Medium-Low,411.4,480.0,15.2,25.5,41.9,20,"zucchini (2.4g), brown rice (18.9g), arugula (3.8g), green beans (72.0g), wheat berry (4.7g), rosemary (0.1g), +14 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560453380/rgb.png,data/raw_images/dish_1560453380.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""green beans"",
+      ""grams"": 200,
+      ""calories"": 500
+    },
+    {
+   ",138.6,33.7
+dish_1566849327,Medium-Low,551.7,362.0,31.3,14.9,55.1,5,"parmesan cheese (36.0g), mixed greens (70.0g), avocado (47.0g), olives (86.0g), chicken (123.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566849327/rgb.png,data/raw_images/dish_1566849327.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",1.7,0.3
+dish_1563898786,Medium-Low,420.9,344.0,31.5,11.4,23.6,10,"mustard (0.5g), olive oil (8.0g), bell peppers (9.9g), broccoli (93.0g), radishes (8.0g), salt (0.2g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563898786/rgb.png,data/raw_images/dish_1563898786.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 200,
+      ""calories"": 50
+    },
+    {
+      ""item"": ""eggs"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""ite",129.1,30.7
+dish_1565119464,Medium-Low,504.1,223.0,23.1,44.4,28.0,14,"millet (6.8g), apple (1.7g), cheese pizza (122.0g), salt (0.1g), olive oil (3.8g), onions (5.1g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565119464/rgb.png,data/raw_images/dish_1565119464.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza with 150 g",45.9,9.1
+dish_1559841163,Medium-Low,357.0,335.0,18.2,27.5,21.2,6,"blackberries (53.0g), scrambled eggs (119.0g), yam (33.5g), sweet potato (33.5g), chicken apple sausage (46.0g), broccoli (50.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559841163/rgb.png,data/raw_images/dish_1559841163.png,200.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 200,
+      ""calories"": 50
+    },
+    {
+      """,157.0,44.0
+dish_1563568338,Medium-Low,631.7,371.0,29.6,57.6,38.7,17,"salt (0.4g), garlic (0.2g), olive oil (2.1g), kale (3.5g), onions (3.5g), wheat berry (23.3g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563568338/rgb.png,data/raw_images/dish_1563568338.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""farro"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""it",81.7,12.9
+dish_1562691674,Medium-Low,377.0,435.0,11.3,42.6,26.5,9,"sweet potato (56.5g), olive oil (2.2g), broccoli (88.8g), egg whites (96.0g), yam (56.5g), greek yogurt (38.8g), +3 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562691674/rgb.png,data/raw_images/dish_1562691674.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      """,173.0,45.9
+dish_1563216440,Medium-Low,403.8,352.0,6.5,39.9,44.7,11,"wheat berry (12.1g), olive oil (0.5g), spinach (raw) (3.0g), cherry tomatoes (6.0g), chicken breast (120.7g), white rice (106.0g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563216440/rgb.png,data/raw_images/dish_1563216440.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",146.2,36.2
+dish_1563395480,Medium-Low,370.5,329.0,14.1,31.8,29.2,27,"corn (3.0g), cheese (1.8g), garlic (0.7g), chili (4.6g), black beans (6.1g), spinach (raw) (15.1g), +21 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563395480/rgb.png,data/raw_images/dish_1563395480.png,50.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      """,320.5,86.5
+dish_1559235815,Medium-Low,352.4,268.0,16.3,31.3,19.6,4,"cream cheese (10.8g), bagels (43.2g), strawberries (103.0g), eggs (111.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559235815/rgb.png,data/raw_images/dish_1559235815.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a bagel with cream cheese, ",197.6,56.1
+dish_1565640272,Medium-Low,377.8,405.0,13.9,49.7,16.6,3,"bell peppers (54.0g), pepperoni pizza (111.0g), cherry tomatoes (240.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565640272/rgb.png,data/raw_images/dish_1565640272.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza with peppe",172.2,45.6
+dish_1562960520,Medium-Low,422.4,303.0,19.7,31.7,29.5,10,"pork (91.6g), pepper (0.3g), white rice (13.1g), garlic (3.3g), caesar salad (97.0g), roasted potatoes (69.0g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562960520/rgb.png,data/raw_images/dish_1562960520.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",127.6,30.2
+dish_1563389199,Medium-Low,390.3,284.0,8.3,70.2,16.5,14,"broccoli (57.0g), garlic (0.1g), pepper (0.0g), arugula (19.5g), vinegar (0.7g), chard (3.5g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563389199/rgb.png,data/raw_images/dish_1563389199.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",159.7,40.9
+dish_1563910171,Medium-Low,571.2,423.0,27.3,24.9,53.6,21,"ginger (1.0g), chard (18.1g), salmon (204.5g), cilantro (2.0g), shallots (6.1g), lime (0.3g), +15 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563910171/rgb.png,data/raw_images/dish_1563910171.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",21.2,3.7
+dish_1563551194,Medium-Low,471.6,400.0,14.0,57.7,27.8,8,"olive oil (2.4g), sweet potato (94.6g), egg whites (101.0g), bagels (57.6g), greek yogurt (56.0g), chia seeds (14.0g), +2 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563551194/rgb.png,data/raw_images/dish_1563551194.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a piece of chicken, which i",78.4,16.6
+dish_1565370004,Medium-Low,570.9,370.0,41.7,11.2,36.9,4,"bacon (31.0g), olive oil (2.6g), scrambled eggs (236.0g), green beans (100.4g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565370004/rgb.png,data/raw_images/dish_1565370004.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""scrambled eggs"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""green beans"",
+      ""grams"": 200,
+      ""calories"": 50
+    },
+   ",20.9,3.7
+dish_1562602657,Medium-Low,610.4,236.0,44.1,31.0,24.3,6,"pepper (0.1g), salt (0.3g), hash browns (65.0g), brussels sprouts (64.0g), sausage (106.0g), olive oil (0.6g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562602657/rgb.png,data/raw_images/dish_1562602657.png,700.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""rice"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""item"": ""brussels sprouts"",
+      ""grams"": 150,
+      ""calories"": 150
+    },
+    {
+ ",89.6,14.7
+dish_1559668314,Medium-Low,551.5,300.0,38.2,32.8,21.0,3,"scrambled eggs (150.0g), garden salad (61.0g), hash browns (89.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559668314/rgb.png,data/raw_images/dish_1559668314.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""egg"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""rice"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""item"": ",1.5,0.3
+dish_1563306392,Medium-Low,477.5,288.0,14.0,5.7,77.8,10,"chicken (246.4g), spinach (raw) (6.2g), wheat berry (24.6g), thyme (0.6g), olive oil (4.9g), lemon juice (1.2g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563306392/rgb.png,data/raw_images/dish_1563306392.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",72.5,15.2
+dish_1565383097,Medium-Low,479.2,430.0,25.9,13.3,50.0,5,"spinach (raw) (57.0g), cucumbers (101.0g), olives (129.0g), chicken (116.0g), parmesan cheese (27.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565383097/rgb.png,data/raw_images/dish_1565383097.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",70.8,14.8
+dish_1568401261,Medium-Low,530.4,443.0,26.4,34.6,39.1,6,"salt (0.4g), squash (113.4g), carrot (75.0g), avocado (25.0g), tuna salad (228.0g), olive oil (1.1g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568401261/rgb.png,data/raw_images/dish_1568401261.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""sweet potatoes"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+",19.6,3.7
+dish_1562790824,Medium-Low,437.1,368.0,49.8,19.3,49.9,12,"salt (0.9g), bell peppers (9.7g), garlic (1.8g), mustard (0.5g), cucumbers (9.7g), olive oil (12.9g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562790824/rgb.png,data/raw_images/dish_1562790824.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",112.9,25.8
+dish_1562959129,Medium-Low,412.9,293.0,22.2,47.4,24.7,16,"fish (68.9g), garlic (0.3g), salt (0.2g), pizza (79.0g), onions (2.8g), pepper (2.8g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562959129/rgb.png,data/raw_images/dish_1562959129.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a portion of c",137.1,33.2
+dish_1560203424,Medium-Low,451.8,138.0,22.3,50.2,14.6,2,"pepperoni pizza (104.0g), brownies (34.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560203424/rgb.png,data/raw_images/dish_1560203424.png,1800.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""pepperoni pizza"",
+      ""grams"": 150,
+      ""calories"": 1500
+    },
+    {
+      ""item"": ""brownie"",
+      ""grams"": 100,
+      ""calories"": 300
+    }
+  ],
+",1348.2,298.4
+dish_1567542876,Medium-Low,495.8,260.0,21.0,45.7,29.5,18,"white rice (25.7g), soy sauce (0.4g), onions (7.2g), orange juice (0.4g), kale (6.4g), lemon juice (0.9g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567542876/rgb.png,data/raw_images/dish_1567542876.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza with 400 c",54.2,10.9
+dish_1565638323,Medium-Low,467.8,274.0,20.7,29.2,38.3,11,"salt (0.2g), garlic (0.9g), parsley (0.4g), onions (6.3g), zucchini (8.9g), rosemary (0.9g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565638323/rgb.png,data/raw_images/dish_1565638323.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",82.2,17.6
+dish_1565898659,Medium-Low,576.7,537.0,11.4,16.1,97.2,18,"cherry tomatoes (62.0g), tuna (280.0g), olives (40.0g), salmon (58.0g), spinach (raw) (2.9g), onions (1.2g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565898659/rgb.png,data/raw_images/dish_1565898659.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""tomatoes"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      """,26.7,4.6
+dish_1562698276,Medium-Low,434.6,307.0,16.9,36.0,32.0,11,"spinach (cooked) (3.4g), shallots (6.9g), salt (0.1g), onions (3.4g), broccoli (77.0g), olive oil (0.7g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562698276/rgb.png,data/raw_images/dish_1562698276.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""rice"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""ite",115.4,26.6
+dish_1561392593,Medium-Low,354.0,325.0,24.3,19.1,16.4,11,"vinegar (4.3g), olive oil (8.5g), broccoli (68.0g), berries (75.0g), bell peppers (10.7g), radishes (8.5g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561392593/rgb.png,data/raw_images/dish_1561392593.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of scrambled eggs, broccoli, s",196.0,55.4
+dish_1566931586,Medium-Low,379.4,389.0,15.3,15.5,46.6,4,"olives (91.0g), mixed greens (91.0g), chicken (136.0g), broccoli (71.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566931586/rgb.png,data/raw_images/dish_1566931586.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source, and the broccol",170.6,45.0
+dish_1563552016,Medium-Low,493.6,174.0,19.5,70.0,10.7,2,"syrup (38.1g), waffles (135.9g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563552016/rgb.png,data/raw_images/dish_1563552016.png,500.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""waffle"",
+      ""grams"": 200,
+      ""calories"": 300
+    }
+  ],
+  ""total_calories"": 500,
+  ""reasoning"": ""The waffle is a round, golden-brown food item wit",6.4,1.3
+dish_1558722247,Medium-Low,604.6,343.0,43.2,46.8,21.5,3,"almonds (86.0g), cauliflower (97.0g), apple (160.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558722247/rgb.png,data/raw_images/dish_1558722247.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""almonds"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""apple"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""it",54.6,9.0
+dish_1561061687,Medium-Low,508.3,408.0,24.1,33.0,41.7,26,"shallots (6.2g), garlic (4.5g), croutons (0.3g), jalapenos (1.3g), onions (2.6g), cranberries (2.3g), +20 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561061687/rgb.png,data/raw_images/dish_1561061687.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",41.7,8.2
+dish_1565811091,Medium-Low,504.4,371.0,17.6,9.1,74.7,5,"broccoli (52.0g), spinach (raw) (20.0g), carrot (47.0g), chicken (205.0g), goat cheese (47.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565811091/rgb.png,data/raw_images/dish_1565811091.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source with 250 calorie",45.6,9.0
+dish_1566316587,Medium-Low,646.8,311.0,50.8,20.9,26.9,11,"olive oil (12.4g), vinegar (6.2g), radishes (12.4g), bacon (19.0g), garlic (0.8g), bell peppers (15.5g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566316587/rgb.png,data/raw_images/dish_1566316587.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of scrambled eggs, rice, and a",96.8,15.0
+dish_1560367715,Medium-Low,597.5,305.0,26.7,40.8,44.5,16,"broccoli (5.1g), brown rice (20.4g), vinegar (1.0g), pork (152.9g), olive oil (4.1g), lemon juice (1.0g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560367715/rgb.png,data/raw_images/dish_1560367715.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      """,47.5,7.9
+dish_1565195493,Medium-Low,407.0,291.0,21.0,20.2,31.0,5,"sweet potato (100.5g), chicken apple sausage (23.0g), bacon (38.0g), olive oil (2.5g), egg whites (127.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565195493/rgb.png,data/raw_images/dish_1565195493.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",143.0,35.1
+dish_1564159636,Medium-Low,487.9,134.0,37.4,5.3,31.4,7,"sausage (56.0g), olive oil (0.2g), pepper (0.0g), salt (0.1g), turkey bacon (15.0g), bacon (42.0g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564159636/rgb.png,data/raw_images/dish_1564159636.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""bacon"",
+      ""grams"": 200,
+      ""calories"": 500
+    },
+    {
+      ""item"": ""brussels sprouts"",
+      ""grams"": 100,
+      ""calories"": 50
+    }
+  ],
+  """,62.1,12.7
+dish_1560798960,Medium-Low,493.7,429.0,22.4,53.3,24.2,24,"cauliflower (90.0g), croutons (0.2g), sunflower seeds (1.6g), garlic (0.2g), onions (1.9g), tofu (81.0g), +18 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560798960/rgb.png,data/raw_images/dish_1560798960.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      """,56.3,11.4
+dish_1562618000,Medium-High,686.0,448.0,36.1,30.8,59.2,16,"vinegar (8.7g), olive oil (16.4g), garlic (0.5g), mustard greens (16.7g), pepper (6.7g), salt (0.7g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562618000/rgb.png,data/raw_images/dish_1562618000.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",136.0,19.8
+dish_1558720236,Medium-High,887.8,407.0,66.4,60.5,31.9,4,"apple (143.0g), carrot (74.0g), cauliflower (57.0g), almonds (133.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558720236/rgb.png,data/raw_images/dish_1558720236.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""carrots"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""almonds"",
+      ""grams"": 200,
+      ""calories"": 200
+    },
+    {
+      """,337.8,38.0
+dish_1562963704,Medium-High,663.8,479.0,28.4,66.1,35.9,19,"radishes (3.5g), bok choy (12.3g), vinegar (3.5g), salt (0.6g), roasted potatoes (103.0g), mixed greens (17.5g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562963704/rgb.png,data/raw_images/dish_1562963704.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""spaghetti"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+     ",113.8,17.1
+dish_1566591080,Medium-High,909.6,549.0,43.5,19.4,103.6,11,"pepper (8.6g), salmon (171.2g), chicken (142.0g), olives (14.0g), arugula (6.8g), brown rice (34.2g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566591080/rgb.png,data/raw_images/dish_1566591080.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",359.6,39.5
+dish_1560527191,Medium-High,664.0,318.0,45.4,28.9,34.4,13,"mustard greens (4.6g), cucumbers (3.7g), bacon (34.0g), berries (81.0g), tomatoes (2.3g), garlic (0.3g), +7 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560527191/rgb.png,data/raw_images/dish_1560527191.png,50.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""bacon"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {
+      ""item"": ""sausage"",
+      ""grams"": 50,
+      ""calories"": 100
+    },
+    {
+      ""ite",614.0,92.5
+dish_1568305257,Medium-High,837.1,420.0,65.5,9.3,52.1,10,"turkey bacon (82.0g), salt (0.4g), bell peppers (15.0g), mustard (0.8g), olive oil (12.0g), cucumbers (15.0g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568305257/rgb.png,data/raw_images/dish_1568305257.png,1050.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""scrambled eggs"",
+      ""grams"": 200,
+      ""calories"": 500
+    },
+    {
+      ""item"": ""spinach salad"",
+      ""grams"": 150,
+      ""calories"": 300
+    },
+",212.9,25.4
+dish_1558380557,Medium-High,699.3,212.0,54.4,25.0,32.7,3,"grapes (52.0g), almonds (48.0g), sausage (112.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558380557/rgb.png,data/raw_images/dish_1558380557.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",149.3,21.3
+dish_1564082462,Medium-High,905.4,609.0,32.1,40.5,108.8,25,"soy sauce (2.9g), pesto (10.7g), cherry tomatoes (6.7g), brown rice (27.5g), chard (6.9g), spinach (raw) (2.7g), +19 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564082462/rgb.png,data/raw_images/dish_1564082462.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a significant portion of the meal",355.4,39.3
+dish_1565972715,Medium-High,657.5,510.0,46.8,15.7,43.2,13,"cucumbers (7.8g), vinegar (3.1g), green beans (81.9g), scrambled eggs (237.0g), pepper (0.2g), lettuce (15.6g), +7 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565972715/rgb.png,data/raw_images/dish_1565972715.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""green beans"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 250,
+      ""calories"": 500
+    },
+    {
+   ",107.5,16.3
+dish_1564686832,Medium-High,829.7,392.0,39.7,64.5,54.2,14,"onions (4.2g), brownies (49.0g), olives (25.0g), chicken breast (122.0g), salt (0.5g), lime (1.1g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564686832/rgb.png,data/raw_images/dish_1564686832.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of two slices of pizza with ch",279.7,33.7
+dish_1566502573,Medium-High,821.5,487.0,43.2,60.7,51.2,28,"chive (0.0g), bok choy (14.9g), chicken (31.7g), white rice (14.9g), pork (104.2g), arugula (21.5g), +22 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566502573/rgb.png,data/raw_images/dish_1566502573.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      """,271.5,33.0
+dish_1561577573,Medium-High,755.4,346.0,40.6,25.0,66.1,10,"onions (7.6g), bok choy (7.6g), millet (30.2g), beef (226.8g), salt (0.3g), spinach (cooked) (7.6g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561577573/rgb.png,data/raw_images/dish_1561577573.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza with 150 g",205.4,27.2
+dish_1561752996,Medium-High,848.7,415.0,42.9,36.3,76.8,15,"garlic (1.6g), arugula (3.5g), brown rice (17.4g), thyme (0.1g), salt (0.6g), cilantro (1.6g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561752996/rgb.png,data/raw_images/dish_1561752996.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",298.7,35.2
+dish_1561753075,Medium-High,945.7,668.0,47.4,46.3,82.7,17,"garlic (1.6g), salmon (87.1g), chicken thighs (162.6g), onions (0.4g), olive oil (5.1g), chili (1.4g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561753075/rgb.png,data/raw_images/dish_1561753075.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""salad"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""it",395.7,41.8
+dish_1568401302,Medium-High,716.5,561.0,28.9,69.9,44.7,7,"fried rice (118.0g), salt (0.4g), squash (113.4g), carrot (75.0g), avocado (25.0g), olive oil (1.1g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568401302/rgb.png,data/raw_images/dish_1568401302.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",166.5,23.2
+dish_1563307575,Medium-High,671.1,419.0,38.1,25.1,53.9,19,"orange juice (1.3g), onions (9.3g), garlic (1.3g), soy sauce (1.3g), green onions (1.3g), salt (0.5g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563307575/rgb.png,data/raw_images/dish_1563307575.png,1100.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""carrots"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      """,428.9,63.9
+dish_1561739805,Medium-High,696.4,1102.0,23.3,101.3,29.1,10,"raspberries (2.6g), broccoli (264.0g), berries (249.0g), sweet potato (84.0g), scrambled eggs (165.0g), cantaloupe (300.0g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561739805/rgb.png,data/raw_images/dish_1561739805.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a part of the ",146.4,21.0
+dish_1563910639,Medium-High,697.3,447.0,29.1,20.5,81.0,14,"garlic (9.7g), lime (0.4g), chili (0.8g), salt (0.8g), onions (6.5g), lemon juice (3.2g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563910639/rgb.png,data/raw_images/dish_1563910639.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, rice, and spinach.",147.3,21.1
+dish_1559244649,Medium-High,906.8,455.0,40.3,51.7,83.3,20,"pepper (3.3g), chive (0.3g), olive oil (16.4g), mustard greens (8.0g), walnuts (1.4g), basil (0.3g), +14 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1559244649/rgb.png,data/raw_images/dish_1559244649.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""salad"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""it",356.8,39.3
+dish_1560799647,Medium-High,723.4,474.0,39.7,39.6,50.0,17,"garlic (1.0g), spinach (raw) (56.2g), squash (118.4g), pork (146.4g), mustard (1.1g), pizza (74.0g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560799647/rgb.png,data/raw_images/dish_1560799647.png,350.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 200,
+      ""calories"": 300
+    },
+    {
+      """,373.4,51.6
+dish_1563998513,Medium-High,757.5,599.0,38.7,51.6,54.2,27,"chicken (70.9g), pepper (0.4g), cookies (25.0g), brown rice (18.4g), arugula (1.8g), vinegar (0.2g), +21 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563998513/rgb.png,data/raw_images/dish_1563998513.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",207.5,27.4
+dish_1564169958,Medium-High,787.8,563.0,37.7,46.7,67.1,19,"chili (1.6g), tomatoes (18.5g), cilantro (1.9g), olive oil (0.9g), parsley (0.7g), cucumbers (19.1g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564169958/rgb.png,data/raw_images/dish_1564169958.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""vegetables"",
+      ""grams"": 200,
+      ""calories"": 400
+    }
+  ],
+  ""tot",237.8,30.2
+dish_1566590056,Medium-High,815.6,519.0,34.7,63.9,62.9,19,"tomatoes (14.2g), pepper (0.5g), millet (28.5g), vinegar (2.7g), tofu (122.0g), jalapenos (5.7g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566590056/rgb.png,data/raw_images/dish_1566590056.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""vegetable salad"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {",265.6,32.6
+dish_1562790321,Medium-High,767.5,354.0,53.0,39.8,37.5,12,"salt (1.0g), pepper (0.1g), walnuts (34.0g), olive oil (8.7g), pizza (86.0g), chard (10.1g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562790321/rgb.png,data/raw_images/dish_1562790321.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",217.5,28.3
+dish_1566328776,Medium-High,901.8,436.0,28.7,78.3,77.7,3,"chicken (167.0g), cherry tomatoes (36.0g), pizza (233.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566328776/rgb.png,data/raw_images/dish_1566328776.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",351.8,39.0
+dish_1566328831,Medium-High,941.6,500.0,30.0,85.8,78.1,5,"pizza (233.0g), cherry tomatoes (36.0g), chicken (167.0g), pineapple (52.0g), olives (12.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566328831/rgb.png,data/raw_images/dish_1566328831.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal includes chicken, which is a good sourc",391.6,41.6
+dish_1566590007,Medium-High,740.8,457.0,29.2,58.0,61.8,13,"bell peppers (14.2g), garlic (2.8g), tomatoes (14.2g), salt (2.8g), onions (5.7g), olive oil (5.7g), +7 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566590007/rgb.png,data/raw_images/dish_1566590007.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""vegetable salad"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {",190.8,25.8
+dish_1560367733,Medium-High,661.4,388.0,26.8,54.9,46.2,17,"vinegar (1.0g), cherry tomatoes (5.1g), white rice (97.0g), croutons (10.0g), garlic (2.0g), broccoli (5.1g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560367733/rgb.png,data/raw_images/dish_1560367733.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 40
+    },
+    {
+      """,111.4,16.8
+dish_1566328805,Medium-High,927.8,488.0,28.7,85.1,78.0,4,"cherry tomatoes (36.0g), pizza (233.0g), chicken (167.0g), pineapple (52.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566328805/rgb.png,data/raw_images/dish_1566328805.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal includes chicken, which is a lean prote",377.8,40.7
+dish_1562789328,Medium-High,656.6,503.0,27.8,69.7,40.7,18,"broccoli (2.5g), tofu (68.0g), corn on the cob (196.0g), vinegar (0.5g), lemon juice (0.5g), shallots (0.5g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562789328/rgb.png,data/raw_images/dish_1562789328.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""caesar salad"",
+      ""grams"": 100,
+      ""calories"": 300
+    },
+    {
+  ",106.6,16.2
+dish_1561580659,Medium-High,754.4,480.0,43.8,16.3,68.9,17,"salt (0.3g), olive oil (1.6g), cherry tomatoes (8.0g), beef (247.4g), feta cheese (3.2g), cauliflower (81.0g), +11 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561580659/rgb.png,data/raw_images/dish_1561580659.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",204.4,27.1
+dish_1563910676,Medium-High,758.0,501.0,34.8,22.8,82.1,18,"brown rice (64.8g), ginger (1.6g), radishes (5.5g), mustard (0.3g), shallots (9.7g), lime (0.4g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563910676/rgb.png,data/raw_images/dish_1563910676.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as 150 grams, whi",208.0,27.4
+dish_1565974409,Medium-High,688.6,228.0,50.0,5.5,51.5,2,"chicken apple sausage (143.0g), bacon (85.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565974409/rgb.png,data/raw_images/dish_1565974409.png,500.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""bacon"",
+      ""grams"": 100,
+      ""calories"": 500
+    },
+    {
+      ""item"": ""bacon"",
+      ""grams"": 100,
+      ""calories"": 500
+    },
+    {
+      ""item",188.6,27.4
+dish_1563910708,Medium-High,786.2,555.0,36.2,26.5,83.0,19,"blueberries (5.5g), vinegar (2.7g), lemon juice (3.2g), mustard (0.3g), olive oil (9.2g), green beans (52.7g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563910708/rgb.png,data/raw_images/dish_1563910708.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as 150 grams, whi",236.2,30.0
+dish_1564601638,Medium-High,712.5,541.0,46.9,43.0,51.1,21,"olive oil (4.3g), kale (3.8g), cherry tomatoes (3.0g), chard (3.0g), turnips (73.0g), salt (1.4g), +15 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564601638/rgb.png,data/raw_images/dish_1564601638.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",162.5,22.8
+dish_1563309398,Medium-High,656.0,604.0,20.2,23.3,93.2,15,"salt (0.4g), spinach (raw) (7.1g), lemon juice (1.4g), olives (33.0g), bell peppers (29.0g), lettuce (66.0g), +9 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563309398/rgb.png,data/raw_images/dish_1563309398.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source, and the ve",106.0,16.2
+dish_1561737271,Medium-High,762.4,520.0,45.8,46.5,41.0,5,"sausage (117.0g), hash browns (60.0g), pineapple (126.0g), broccoli (72.0g), egg whites (145.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1561737271/rgb.png,data/raw_images/dish_1561737271.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",212.4,27.9
+dish_1563826306,Medium-High,882.8,312.0,48.9,69.6,44.4,9,"garlic (1.4g), lime (1.4g), salt (0.7g), brownies (51.0g), olive oil (0.2g), wheat berry (20.3g), +3 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563826306/rgb.png,data/raw_images/dish_1563826306.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",332.8,37.7
+dish_1563480534,Medium-High,797.6,576.0,33.9,35.5,81.9,23,"garlic (8.5g), wine (1.3g), lemon juice (2.4g), onions (11.1g), jalapenos (2.4g), brown rice (48.2g), +17 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563480534/rgb.png,data/raw_images/dish_1563480534.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""broccoli"",
+      ""grams"": 100,
+      ""calories"": 50
+    },
+    {
+      """,247.6,31.0
+dish_1565640365,Medium-High,720.9,623.0,22.4,54.6,75.1,11,"wheat berry (17.9g), olive oil (0.7g), thyme (0.4g), salt (0.2g), bell peppers (54.0g), garlic (1.8g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565640365/rgb.png,data/raw_images/dish_1565640365.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",170.9,23.7
+dish_1562010315,Medium-High,671.1,477.0,38.2,19.7,61.9,14,"caesar salad (120.0g), jalapenos (0.3g), pork (206.8g), pepper (0.8g), wheat berry (27.6g), mayonnaise (5.5g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562010315/rgb.png,data/raw_images/dish_1562010315.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",121.1,18.0
+dish_1563827482,Medium-High,894.5,621.0,56.0,24.5,77.4,11,"caesar salad (138.0g), garlic (3.6g), broccoli (36.7g), zucchini (36.7g), lime (3.6g), olive oil (0.5g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563827482/rgb.png,data/raw_images/dish_1563827482.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",344.5,38.5
+dish_1565203094,Medium-High,898.0,485.0,27.7,38.0,116.7,12,"rosemary (0.4g), parsley (0.4g), garlic (1.7g), chicken (341.4g), pizza (88.0g), salt (1.7g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565203094/rgb.png,data/raw_images/dish_1565203094.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza with 150 g",348.0,38.8
+dish_1558373492,Medium-High,888.2,325.0,66.8,42.3,39.0,4,"cantaloupe (40.0g), almonds (72.0g), sausage (113.0g), grapes (100.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558373492/rgb.png,data/raw_images/dish_1558373492.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""almonds"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      """,338.2,38.1
+dish_1566316612,Medium-High,665.2,367.0,51.5,24.2,27.5,12,"hash browns (48.0g), bacon (19.0g), vinegar (6.2g), radishes (12.4g), scrambled eggs (180.0g), garlic (0.8g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566316612/rgb.png,data/raw_images/dish_1566316612.png,100.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""spinach"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""egg"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item",565.2,85.0
+dish_1567537280,Medium-High,733.0,404.0,34.7,51.1,51.3,16,"chili (0.9g), onions (1.9g), kale (4.7g), orange juice (0.9g), soy sauce (0.9g), green onions (0.9g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567537280/rgb.png,data/raw_images/dish_1567537280.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of a slice of pizza, a piece o",183.0,25.0
+dish_1565203015,Medium-High,663.9,397.0,19.1,8.9,107.1,11,"parsley (0.4g), chard (8.5g), lemon juice (1.3g), garlic (1.7g), chicken (341.4g), chive (0.4g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565203015/rgb.png,data/raw_images/dish_1565203015.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",113.9,17.2
+dish_1562180089,Medium-High,851.3,437.0,57.8,19.0,60.7,12,"vegetable oil (34.9g), olive oil (1.8g), buttermilk (27.9g), flour (14.0g), chicken (139.7g), bacon (36.0g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562180089/rgb.png,data/raw_images/dish_1562180089.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as the main prote",301.3,35.4
+dish_1565811139,Medium-High,902.2,416.0,62.6,9.1,74.7,6,"carrot (47.0g), goat cheese (47.0g), olive oil (45.0g), broccoli (52.0g), spinach (raw) (20.0g), chicken (205.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565811139/rgb.png,data/raw_images/dish_1565811139.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a protein source, and the carrots",352.2,39.0
+dish_1566499686,Medium-High,674.7,388.0,37.7,35.9,48.4,16,"pepper (0.6g), spinach (raw) (61.3g), vinegar (4.9g), white rice (23.8g), olives (37.0g), bok choy (23.8g), +10 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566499686/rgb.png,data/raw_images/dish_1566499686.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",124.7,18.5
+dish_1566414723,Medium-High,728.8,482.0,31.7,24.9,98.0,22,"green onions (0.6g), salt (2.2g), white wine (0.5g), olive oil (3.2g), rosemary (0.6g), lemon juice (0.5g), +16 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566414723/rgb.png,data/raw_images/dish_1566414723.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as 150 grams, whi",178.8,24.5
+dish_1563568357,Medium-High,767.7,448.0,38.1,69.4,42.9,23,"cheese pizza (45.0g), white rice (14.1g), wheat berry (23.3g), ground turkey (106.0g), parsley (3.9g), arugula (9.6g), +17 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563568357/rgb.png,data/raw_images/dish_1563568357.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""quinoa"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""i",217.7,28.4
+dish_1558378634,Medium-High,875.0,315.0,64.8,44.3,38.0,3,"grapes (134.0g), almonds (68.0g), sausage (113.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558378634/rgb.png,data/raw_images/dish_1558378634.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",325.0,37.1
+dish_1563480505,Medium-High,767.3,475.0,33.5,29.5,79.8,21,"salmon (240.8g), mushroom (9.4g), spinach (raw) (18.3g), brown rice (48.2g), cream (2.5g), olive oil (2.3g), +15 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563480505/rgb.png,data/raw_images/dish_1563480505.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",217.3,28.3
+dish_1562790855,Medium-High,739.4,507.0,67.9,23.8,78.4,21,"radishes (7.8g), fish (256.8g), cherry tomatoes (3.6g), shallots (0.7g), onions (11.7g), mustard (0.5g), +15 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562790855/rgb.png,data/raw_images/dish_1562790855.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",189.4,25.6
+dish_1558630325,Medium-High,751.5,269.0,58.1,46.6,27.1,3,"apple (142.0g), garden salad (11.0g), almonds (116.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558630325/rgb.png,data/raw_images/dish_1558630325.png,350.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""almonds"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""lettuce"",
+      ""grams"": 50,
+      ""calories"": 50
+    },
+    {
+      ""it",401.5,53.4
+dish_1558721827,Medium-High,886.5,429.0,66.5,59.5,32.4,4,"cantaloupe (56.0g), apple (143.0g), cauliflower (97.0g), almonds (133.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558721827/rgb.png,data/raw_images/dish_1558721827.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""almonds"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""carrots"",
+      ""grams"": 100,
+      ""calories"": 40
+    },
+    {
+      ""i",336.5,38.0
+dish_1567789256,Medium-High,792.2,319.0,64.7,9.4,41.4,11,"salt (0.4g), garlic (0.8g), bell peppers (16.0g), scrambled eggs (123.0g), bacon (19.0g), cucumbers (16.0g), +5 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1567789256/rgb.png,data/raw_images/dish_1567789256.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""sausage"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {
+      """,242.2,30.6
+dish_1566329021,Medium-High,792.7,486.0,28.0,74.7,59.3,19,"bell peppers (10.2g), shallots (3.9g), beef (58.0g), garlic (2.0g), vinegar (0.1g), spinach (raw) (4.1g), +13 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566329021/rgb.png,data/raw_images/dish_1566329021.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",242.7,30.6
+dish_1562963325,Medium-High,760.2,379.0,31.5,65.3,51.8,10,"sugar (14.2g), garlic (4.7g), pepper (0.5g), white rice (19.0g), bok choy (19.0g), pork (133.0g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562963325/rgb.png,data/raw_images/dish_1562963325.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""rice"",
+      ""grams"": 200,
+      ""calories"": 400
+    },
+    {
+      ""ite",210.2,27.7
+dish_1563480608,Medium-High,886.9,650.0,40.4,42.6,83.2,29,"beef (62.7g), salt (0.9g), cilantro (2.4g), olive oil (8.7g), cucumbers (8.0g), jalapenos (2.4g), +23 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563480608/rgb.png,data/raw_images/dish_1563480608.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""spinach"",
+      ""grams"": 200,
+      ""calories"": 50
+    },
+    {
+      ""i",336.9,38.0
+dish_1566591048,Medium-High,876.2,481.0,42.7,12.7,103.0,10,"olives (14.0g), brown rice (34.2g), arugula (6.8g), chicken salad (97.0g), pepper (8.6g), chicken (142.0g), +4 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566591048/rgb.png,data/raw_images/dish_1566591048.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",326.2,37.2
+dish_1568060746,Medium-High,778.8,395.0,53.0,12.2,64.4,5,"olive oil (36.0g), mixed greens (61.0g), avocado (64.0g), onions (36.0g), chicken (198.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568060746/rgb.png,data/raw_images/dish_1568060746.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a protein",228.8,29.4
+dish_1558723894,Medium-High,757.6,405.0,50.6,68.3,26.3,4,"almonds (96.0g), cauliflower (59.0g), corn on the cob (107.0g), apple (143.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558723894/rgb.png,data/raw_images/dish_1558723894.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""apple"",
+      ""grams"": 100,
+      ""calories"": 100
+    },
+    {
+      ""item"": ""almonds"",
+      ""grams"": 150,
+      ""calories"": 300
+    },
+    {
+      ""it",207.6,27.4
+dish_1565118096,Medium-High,656.4,588.0,13.0,50.0,82.4,7,"chicken breast (133.0g), tuna (102.0g), cheese pizza (76.0g), cherry tomatoes (73.0g), bell peppers (69.0g), carrot (69.0g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565118096/rgb.png,data/raw_images/dish_1565118096.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal includes chicken, which is a good sourc",106.4,16.2
+dish_1558379876,High,1148.3,374.0,89.8,32.1,68.3,3,"deprecated (143.0g), sausage (112.0g), almonds (119.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558379876/rgb.png,data/raw_images/dish_1558379876.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",598.3,52.1
+dish_1564170010,High,1264.5,831.0,61.9,57.3,116.9,23,"tortilla (74.2g), cucumbers (19.1g), tatsoi (76.4g), kale (19.1g), cilantro (1.9g), tomatoes (18.5g), +17 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564170010/rgb.png,data/raw_images/dish_1564170010.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",714.5,56.5
+dish_1558373159,High,1013.3,334.0,79.1,30.5,60.6,3,"sausage (73.0g), deprecated (142.0g), almonds (119.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558373159/rgb.png,data/raw_images/dish_1558373159.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a common source of protein and ca",463.3,45.7
+dish_1563567372,High,951.9,590.0,66.2,81.6,75.4,13,"cherry tomatoes (10.7g), fish (268.0g), salt (0.7g), wheat berry (53.6g), lemon juice (5.4g), chard (10.7g), +7 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563567372/rgb.png,data/raw_images/dish_1563567372.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal includes chicken, which is a lean prote",401.9,42.2
+dish_1563476551,High,1116.4,750.0,51.4,74.7,85.5,26,"shallots (6.3g), salmon (208.9g), mushroom (11.4g), ginger (1.0g), squash (69.3g), brownies (51.0g), +20 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563476551/rgb.png,data/raw_images/dish_1563476551.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",566.4,50.7
+dish_1565033265,High,1324.1,625.0,106.3,19.2,76.7,6,"olives (127.0g), mixed greens (55.0g), broccoli (92.0g), chicken (233.0g), vinaigrette (71.0g), olive oil (47.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1565033265/rgb.png,data/raw_images/dish_1565033265.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",774.1,58.5
+dish_1566501153,High,1006.9,419.0,83.8,17.9,50.9,7,"olives (97.0g), carrot (38.0g), spinach (raw) (25.0g), parmesan cheese (34.0g), chicken (112.0g), avocado (63.0g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566501153/rgb.png,data/raw_images/dish_1566501153.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",456.9,45.4
+dish_1560356627,High,980.0,301.0,76.0,6.9,63.1,3,"scrambled eggs (121.0g), bacon (92.0g), sausage (88.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1560356627/rgb.png,data/raw_images/dish_1560356627.png,500.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""scrambled eggs"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""bacon"",
+      ""grams"": 200,
+      ""calories"": 500
+    },
+    {
+  ",480.0,49.0
+dish_1563478751,High,950.4,545.0,45.3,54.1,74.8,12,"cream (9.6g), mushroom (35.8g), spinach (raw) (23.9g), olive oil (1.8g), pasta (191.1g), beef (238.9g), +6 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563478751/rgb.png,data/raw_images/dish_1563478751.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",400.4,42.1
+dish_1564686855,High,1030.2,435.0,52.1,85.9,56.8,14,"cucumbers (10.6g), onions (4.2g), brownies (92.0g), chicken breast (122.0g), cherry tomatoes (8.5g), olives (25.0g), +8 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1564686855/rgb.png,data/raw_images/dish_1564686855.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of two slices of pizza, a sala",480.2,46.6
+dish_1563476463,High,1067.5,542.0,50.7,65.6,82.4,23,"garlic (7.8g), lime (0.3g), chili (0.5g), lemon juice (2.1g), brownies (51.0g), olive oil (2.1g), +17 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563476463/rgb.png,data/raw_images/dish_1563476463.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",517.5,48.5
+dish_1566931674,High,991.0,531.0,76.8,23.1,58.4,7,"chicken (136.0g), mixed greens (91.0g), avocado (72.0g), broccoli (71.0g), parmesan cheese (27.0g), olive oil (43.0g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1566931674/rgb.png,data/raw_images/dish_1566931674.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",441.0,44.5
+dish_1562180157,High,1009.2,557.0,72.2,25.5,63.8,18,"olive oil (14.2g), almonds (3.1g), spinach (raw) (77.7g), mustard (0.8g), bacon (36.0g), chicken (139.7g), +12 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562180157/rgb.png,data/raw_images/dish_1562180157.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",459.2,45.5
+dish_1563476577,High,1238.0,857.0,62.6,79.6,87.7,30,"beef (76.3g), broccoli (69.3g), shallots (6.3g), thyme (0.2g), onions (22.6g), ginger (1.0g), +24 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563476577/rgb.png,data/raw_images/dish_1563476577.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is estimated to be 150 grams, w",688.0,55.6
+dish_1563305047,High,1032.3,806.0,36.7,28.7,143.5,24,"salt (1.8g), broccoli (3.2g), parsley (3.8g), lemon juice (1.9g), kale (1.6g), green onions (0.3g), +18 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563305047/rgb.png,data/raw_images/dish_1563305047.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    },
+    {
+      ""item"": ""eggplant"",
+      ""grams"": 100,
+      ""calories"": 150
+    },
+    {
+      ",482.3,46.7
+dish_1563476408,High,990.4,513.0,47.9,55.9,79.2,22,"salmon (208.9g), garlic (7.8g), shallots (6.3g), chili (0.5g), lemon juice (2.1g), onions (11.8g), +16 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563476408/rgb.png,data/raw_images/dish_1563476408.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",440.4,44.5
+dish_1563304958,High,951.8,614.0,34.4,13.3,141.7,21,"garlic (2.2g), shallots (0.1g), beef (47.8g), white rice (6.4g), orange juice (0.3g), spinach (raw) (9.5g), +15 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563304958/rgb.png,data/raw_images/dish_1563304958.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source with 250 ca",401.8,42.2
+dish_1562603867,High,1049.1,369.0,74.5,66.3,32.2,7,"mixed greens (58.7g), hash browns (146.0g), raspberries (5.9g), blackberries (5.9g), sausage (132.0g), vinaigrette (5.9g), +1 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562603867/rgb.png,data/raw_images/dish_1562603867.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of chicken, which is a lean pr",499.1,47.6
+dish_1563305005,High,1003.9,720.0,35.7,23.7,142.6,23,"carrot (104.5g), beef (47.8g), chicken (381.5g), wheat berry (38.2g), tofu (106.0g), spinach (raw) (9.5g), +17 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563305005/rgb.png,data/raw_images/dish_1563305005.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source, and the ca",453.9,45.2
+dish_1558375886,High,1050.5,277.0,84.2,42.8,44.9,3,"almonds (119.0g), sausage (92.0g), grapes (66.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1558375886/rgb.png,data/raw_images/dish_1558375886.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""almonds"",
+      ""grams"": 100,
+      ""calories"": 200
+    },
+    {
+      ""item"": ""grapes"",
+      ""grams"": 50,
+      ""calories"": 100
+    },
+    {
+      ""it",500.5,47.6
+dish_1562603895,High,1268.2,517.0,90.8,68.6,47.0,8,"blackberries (5.9g), mixed greens (58.7g), vinaigrette (5.9g), hash browns (146.0g), scrambled eggs (148.0g), raspberries (5.9g), +2 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1562603895/rgb.png,data/raw_images/dish_1562603895.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The meal consists of scrambled eggs, hash browns",718.2,56.6
+dish_1563305083,High,1234.9,901.0,56.8,32.1,147.5,29,"chili (0.3g), lettuce (42.0g), shallots (0.1g), broccoli (3.2g), olive oil (22.9g), parsley (3.8g), +23 more",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1563305083/rgb.png,data/raw_images/dish_1563305083.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken is a lean protein source, and the ve",684.9,55.5
+dish_1568318480,High,1119.3,587.0,67.2,9.2,117.9,5,"mixed greens (115.0g), chicken (222.0g), olive oil (24.0g), steak (182.0g), broccoli (44.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568318480/rgb.png,data/raw_images/dish_1568318480.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken in the salad is a good source of pro",569.3,50.9
+dish_1568401090,High,1159.0,614.0,73.2,18.4,108.7,5,"broccoli (71.0g), mixed greens (42.0g), avocado (125.0g), olive oil (42.0g), chicken (334.0g)",https://storage.googleapis.com/nutrition5k_dataset/nutrition5k_dataset/imagery/realsense_overhead/dish_1568401090/rgb.png,data/raw_images/dish_1568401090.png,550.0,"```json
+{
+  ""breakdown"": [
+    {
+      ""item"": ""chicken"",
+      ""grams"": 150,
+      ""calories"": 250
+    }
+  ],
+  ""total_calories"": 550,
+  ""reasoning"": ""The chicken item is identified as a 150-gram por",609.0,52.5

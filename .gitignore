@@ -1,0 +1,22 @@
+# Environment variables and API keys
+.env
+*.env
+
+# Report directory (submitted directly)
+report/
+*.pdf
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Generator utility scripts
+scripts/generate_pdf_report.py
+generate_pdf_report.py
+scripts/make_colab_notebook.py
+make_colab_notebook.py
+scripts/generate_screenshots.py
+generate_screenshots.py
+
